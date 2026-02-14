@@ -1,6 +1,7 @@
-@keithruezyl1. C, Java, HTML, CSS, PHP, SQL, PYTHON. i love kpop.
+4th year BSIT student, likes building stuff that actually works (most of the time)
 
-<!---
-keithruezyl1/keithruezyl1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+product development, r&d, web3/blockchain things, and basically anything that lets me turn an idea into something real and human.
+
+k-pop enjoyer. film enthusiast. story game player. occasional cook.
+
+
