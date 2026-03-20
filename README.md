@@ -2,14 +2,20 @@
 
 <div align="center">
 
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack-Development-00ADD8?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM-Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Creativity & Innovation](https://img.shields.io/badge/Creativity%20%26-Innovation-7B68EE?style=for-the-badge&logo=lightbulb&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project-Management-2C5282?style=for-the-badge&logo=trello&logoColor=white)
-![Product Development](https://img.shields.io/badge/Product-Development-E74C3C?style=for-the-badge&logo=producthunt&logoColor=white)
-
-![Web3 & Blockchain](https://img.shields.io/badge/Web3%20%26-Blockchain-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
-![R&D](https://img.shields.io/badge/R%26D-Research%20%26%20Development-16A085?style=for-the-badge&logo=flask&logoColor=white)
+![FULL-STACK](https://img.shields.io/badge/FULL--STACK-4A5568?style=flat-square)
+![DEVELOPMENT](https://img.shields.io/badge/DEVELOPMENT-00B8D4?style=flat-square)
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM-FF6B35?style=flat-square)
+![INTEGRATION](https://img.shields.io/badge/INTEGRATION-FF8C42?style=flat-square)
+![CREATIVITY &](https://img.shields.io/badge/CREATIVITY%20%26-8B5CF6?style=flat-square)
+![INNOVATION](https://img.shields.io/badge/INNOVATION-6D28D9?style=flat-square)
+![PROJECT](https://img.shields.io/badge/PROJECT-10B981?style=flat-square)
+![MANAGEMENT](https://img.shields.io/badge/MANAGEMENT-059669?style=flat-square)
+![PRODUCT](https://img.shields.io/badge/PRODUCT-EF4444?style=flat-square)
+![DEVELOPMENT](https://img.shields.io/badge/DEVELOPMENT-DC2626?style=flat-square)
+![WEB3 &](https://img.shields.io/badge/WEB3%20%26-F59E0B?style=flat-square)
+![BLOCKCHAIN](https://img.shields.io/badge/BLOCKCHAIN-D97706?style=flat-square)
+![R&D](https://img.shields.io/badge/R%26D-14B8A6?style=flat-square)
+![RESEARCH & DEVELOPMENT](https://img.shields.io/badge/RESEARCH%20%26%20DEVELOPMENT-0D9488?style=flat-square)
 
 </div>
 
@@ -17,7 +23,7 @@
 
 <div align="center">
   
-![Spider-Man](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FUA6yANn_q6IAAAAM%2Fmarvel%27s-spider-man-2-spider-man.gif&f=1&nofb=1&ipt=0b9671c2e35d3d1ccd05a713fb85f437879b0c13e0726a9f41e23821792fa7b1)
+![Coding GIF](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2024%2F01%2Ficegif-752.gif&f=1&nofb=1&ipt=b51189c1c9d1f5fef77ffe4d289823a3ca6c2e1c3564bfad40f2c4d954fda6ae)
 
 </div>
 
@@ -31,34 +37,19 @@ I believe that innovation can bridge even the farthest places. Growing up, I've 
 
 Along the way, I've learned how to collaborate, communicate clearly, and work even in fast-moving environments — always listening, always trying to understand, and always aiming to build something that has real value.
 
-### 🎯 What I Work On
-- **Product Development** — Building intuitive and meaningful products
-- **Full-Stack Development** — Web and mobile applications
-- **AI/LLM Integration** — Working at the crossroads of design and development
-- **Web3 & Blockchain** — Exploring decentralized technologies
-- **R&D and Innovation** — Turning ideas into real, human-centered solutions
-
-### 🎨 Outside of Tech
-When I'm not coding, I enjoy:
-- 🎬 Shooting and editing short-form videos
-- 🍳 Cooking
-- 👻 Horror movies
-- 🎮 Story games
-- 🎵 Listening to K-pop 🔥
-
 ---
 
 <div align="center">
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keith%20Ruezyl%20Tagarao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-ruezyl-tagarao)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-ruezyl-tagarao)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"I like working at the crossroads of design and development, as it lets me think about people first and then figure out how to turn ideas into something real and human."</i>
+  <i>"success is a monster that speaks through the night like a flower that shines in the kitchen"</i>
 </div>
