@@ -2,20 +2,13 @@
 
 <div align="center">
 
-![FULL-STACK](https://img.shields.io/badge/FULL--STACK-4A5568?style=flat-square)
-![DEVELOPMENT](https://img.shields.io/badge/DEVELOPMENT-00B8D4?style=flat-square)
-![AI/LLM](https://img.shields.io/badge/AI%2FLLM-FF6B35?style=flat-square)
-![INTEGRATION](https://img.shields.io/badge/INTEGRATION-FF8C42?style=flat-square)
-![CREATIVITY &](https://img.shields.io/badge/CREATIVITY%20%26-8B5CF6?style=flat-square)
-![INNOVATION](https://img.shields.io/badge/INNOVATION-6D28D9?style=flat-square)
-![PROJECT](https://img.shields.io/badge/PROJECT-10B981?style=flat-square)
-![MANAGEMENT](https://img.shields.io/badge/MANAGEMENT-059669?style=flat-square)
-![PRODUCT](https://img.shields.io/badge/PRODUCT-EF4444?style=flat-square)
-![DEVELOPMENT](https://img.shields.io/badge/DEVELOPMENT-DC2626?style=flat-square)
-![WEB3 &](https://img.shields.io/badge/WEB3%20%26-F59E0B?style=flat-square)
-![BLOCKCHAIN](https://img.shields.io/badge/BLOCKCHAIN-D97706?style=flat-square)
-![R&D](https://img.shields.io/badge/R%26D-14B8A6?style=flat-square)
-![RESEARCH & DEVELOPMENT](https://img.shields.io/badge/RESEARCH%20%26%20DEVELOPMENT-0D9488?style=flat-square)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-00B8D4?style=flat-square)
+![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM_Integration-FF6B35?style=flat-square)
+![Creativity & Innovation](https://img.shields.io/badge/Creativity_%26_Innovation-8B5CF6?style=flat-square)
+![Project Management](https://img.shields.io/badge/Project_Management-10B981?style=flat-square)
+![Product Development](https://img.shields.io/badge/Product_Development-EF4444?style=flat-square)
+![Web3 & Blockchain](https://img.shields.io/badge/Web3_%26_Blockchain-F59E0B?style=flat-square)
+![R&D and Innovation](https://img.shields.io/badge/R%26D_and_Innovation-14B8A6?style=flat-square)
 
 </div>
 
@@ -43,8 +36,8 @@ Along the way, I've learned how to collaborate, communicate clearly, and work ev
 
 ### 📫 Let's Connect
 
+![Keith Ruezyl Tagarao](https://img.shields.io/badge/Keith_Ruezyl_Tagarao-0A66C2?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keith-ruezyl-tagarao)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
