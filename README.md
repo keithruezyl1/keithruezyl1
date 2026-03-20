@@ -44,5 +44,5 @@ Along the way, I've learned how to collaborate, communicate clearly, and work ev
 ---
 
 <div align="center">
-  <i>"success is a monster that speaks through the night like a flower that shines in the kitchen"</i>
+  <i>"isnt 24 people too many?"</i>
 </div>
