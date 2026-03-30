@@ -44,7 +44,3 @@ Along the way, I've learned how to collaborate, communicate clearly, and work ev
 ---
 
 ---
-
-### 🎧 Currently Playing
-
-[![Spotify](https://img.shields.io/badge/Play_on_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/2O0rIAtaJj77UMZUGtlg3T)
