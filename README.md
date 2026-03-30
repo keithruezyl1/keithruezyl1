@@ -43,4 +43,8 @@ Along the way, I've learned how to collaborate, communicate clearly, and work ev
 
 ---
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2O0rIAtaJj77UMZUGtlg3T?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+---
+
+### 🎧 Currently Playing
+
+[![Spotify](https://img.shields.io/badge/Play_on_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/track/2O0rIAtaJj77UMZUGtlg3T)
