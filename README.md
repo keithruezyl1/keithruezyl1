@@ -5,7 +5,6 @@
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-00B8D4?style=flat-square)
 ![AI/LLM Integration](https://img.shields.io/badge/AI%2FLLM_Integration-FF6B35?style=flat-square)
 ![Creativity & Innovation](https://img.shields.io/badge/Creativity_%26_Innovation-8B5CF6?style=flat-square)
-![Project Management](https://img.shields.io/badge/Project_Management-10B981?style=flat-square)
 ![Product Development](https://img.shields.io/badge/Product_Development-EF4444?style=flat-square)
 ![Web3 & Blockchain](https://img.shields.io/badge/Web3_%26_Blockchain-F59E0B?style=flat-square)
 ![R&D and Innovation](https://img.shields.io/badge/R%26D_and_Innovation-14B8A6?style=flat-square)
